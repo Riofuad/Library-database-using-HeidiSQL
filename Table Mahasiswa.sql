@@ -1,0 +1,35 @@
+INSERT INTO mahasiswa(nim, nama, no_telp, email, alamat, STATUS, id_prodi)
+VALUES ("H071201050", "Iman Mustika Ismail", "082187196003", "imanmustika02@gmail.com", "Jl. Pancasila Selatan No. 2A", "", "4"),
+	("H071201010", "Muhammad Alim Ma'arij", "087886131448", "alimmaarij@gmail.com", "Jl. Tamangapa Raya 3, Komplek Pesona Prima Griya A1/2", "", "4"),
+	("H071201005", "Nur Talitha Putri Hasilawanto", "085145404647", "nurtalitha.putri@gmail.com", "Jl. Veteran Selatan", "", "4"),
+	("H071201026", "Inayah Nur Ilahi S.R.", "085756768829", "inayahnurilahi002@gmail.com", "Jl. Dahlia Lr.312 No.110", "", "4"),
+	("H071201019", "Risky Auliah Nur Qalbi", "082292716353", "aulianurqalbi@gmail.com", "Jl. Andi Tonro 4 BTN Andi Tonro Permai Makassar", "", "4"),
+	("H071201015", "Muh. Barakatuh", "081342994789", "raka.barakatuh40@gmail.com", "Jl. Muh. Thahir Komp. Kumala Permai", "", "4"),
+	("H071201020", "Nanda Putri Ramadhani", "082291150069", "nandaputriir@gmail.com", "Jl. Berua Raya II, Daya", "", "4"),
+	("H071201029", "Nur Izlammiyah Alim", "085242067997", "nrizlamiyaaa@gmail.com", "BTN. Mangga Tiga Blok D16 No.34", "", "4"),
+	("H071201028", "Muhammad Nawwaf Nirwan", "0895801030908", "nawafnirwan@gmail.com", "Jl. Paccerakkang Perm. Telaga Indah C5", "", "4"),
+	("H071201014", "Muhammad Hairul Fitrah", "081340017440", "hairulfitrah22@gmail.com", "Jl. Batua Raya, No.31", "", "4"),
+	# Matematika
+	("H011201001", "Ainun Qalbi Annur", "089636139681", "ainunqalbi90@gmail.com", "Jl. Damai lr.2", "", "1"),
+	("H011201002", "Asfi Saiva", "082318673851", "asfisaiva01@gmail.com", "Pondok Iras, jl. Damai", "", "1"),
+	("H011201004", "Nur Fitria Syawalya Usman", "085240221657", "nurfitriasyawalya1892@gmail.com", "BTN Sakinah C7 NO. 4", "", "1"),
+	("H011201005", "Ariqah Mumtazah", "082291427681", "ariqah.muntazah@gmail.com", "Perum. Graha Lestari Makassar", "", "1"),
+	("H011201007", "Ahmad Mukhayar", "082188608129", "Mukhayar27@gmail.com", "Jl. Tamangapa Raya, Makassar", "", "1"),
+	("H011201009", "Nuzulul Qadr TSP", "089510008657", "nuzultsp@gmail.com", "Jl. Kecaping Raya", "", "1"),
+	("H011201010", "Ahwanul Sisilia Suci Ramadani", "089604150144", "ahwanulsisilia4@gmail.com", "Jl. Paccerakkang", "", "1"),
+	("H011201011", "Moh. Alief Suryabahri", "081356636195", "alief_27@icloud.com", "Jl. Perintis Kemerdekaan Km 17", "", "1"),
+	("H011201020", "Muhammad Adil Paturungi", "082198061519", "Adilflow27@gmail.com", "Jl. Rappokalling Utara 1", "", "1"),
+	("H011201021", "Afiliani", "085338247042", "afilianiafy@gmail.com", "BTN Dewi Kumalasari Blok AF 17 No. 5, Makassar", "", "1"),
+	# Aktuaria
+	("H081201003", "Satria Rio Gersia Lomo", "081344251458", "lomosatria35@gmail.com", "Biring Romang lr. 3, Ukip", "", "5"),
+	("H081201004", "Muhammad Risafli Raif", "087787776141", "risafly.rhaif@gmail.com", "Jl. Tanjung Bunga No. 7A", "", "5"),
+	("H081201006", "Muh. Farid Abdillah", "089695147512", "abdifuadgagah@gmail.com", "Jl. Muh. Paleo 2 No. 5A", "", "5"),
+	("H081201011", "Abinizaf Fikra Taim", "0818405092", "abinizaffikra.taim@gmail.com", "Jl. Racing Centre", "", "5"),
+	("H081201012", "Yudith Tiara Sasmara", "081243559816", "yudithtiarasasmara@gmail.com", "BTP Blok AC", "", "5"),
+	("H081201013", "Rifqah Rahmatul Awaliah", "082334352869", "rifqahrahmatul2@gmail.com", "Jl. Tun Abdul Razak", "", "5"),
+	("H081201014", "Nur Indah Fauziah Tahir", "085218557868", "nurindahfauziahtahir@gmail.com", "Jl. Nipa-Nipa Lama Perumahan Bukit Manggala Permai Blok B No. 1", "", "5"),
+	("H081201017", "Hana Muthmainnah Sajidah", "082191500262", "hanamuthmainnahs@gmail.com", "Jl. Sultan Alauddin, Bumi Bosowa Indah", "", "5"),
+	("H081201018", "Annisa Utami Islami", "085217224734", "annisautamii02@gmail.com", "Dyandara Residence Blok C", "", "5"),
+	("H081201019", "Ainiyyah Nugrayana Burhan", "082346122857", "ainiyyahnugrayana02@gmail.com", "Perumahan Graha Ria Asri/Puskopolda, Sudiang", "", "5");
+	
+SELECT * FROM mahasiswa;
